@@ -49,7 +49,7 @@ export default function Footer() {
       <ul className="flex flex-row pb-[2px] items-center">
         <li className="pl-[15px]">
           <Link
-            href="https://www.linkedin.com/in/hammad-abbasi-95388628b/"
+            href="/"
             target="_blank"
             rel="noopener noreferrer"
           > <FaLinkedinIn size={17} />
@@ -58,7 +58,7 @@ export default function Footer() {
         <p className="px-[10px] text-[17px]">I</p>
         <li>
           <Link
-            href="https://www.facebook.com/profile.php?id=100068906216007"
+            href="/"
             target="_blank"
             rel="noopener noreferrer"
           > <FaFacebookF size={17} />
@@ -67,7 +67,7 @@ export default function Footer() {
         <p className="px-[10px] text-[17px]">I</p>
         <li>
           <Link
-            href="https://www.instagram.com/mr_hammad.abbasi/"
+            href="/"
             target="_blank"
             rel="noopener noreferrer"
           > <FaInstagram size={17} />
@@ -83,7 +83,7 @@ export default function Footer() {
   </div>
 
   <div className="flex justify-center items-center container pt-2">
-    <p className="text-sm">&copy; 2024 Hammad Abbasi. All rights reserved.</p>
+    <p className="text-sm">&copy; 2024 Faizan Ali. All rights reserved.</p>
   </div>
 </footer>
 

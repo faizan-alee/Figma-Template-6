@@ -10,6 +10,6 @@ export default function Main() {
       <Home />
       <Our_Product />
       <Furniro />
-    </div>
+    </div> 
   )
 }
